@@ -1,0 +1,11 @@
+/home/ys/hello/pru1/main.object: /home/ys/hello/main.c
+/home/ys/hello/pru1/main.object: /usr/share/ti/cgt-pru/include/stdint.h
+/home/ys/hello/pru1/main.object: /usr/share/ti/cgt-pru/include/stdlib.h
+/home/ys/hello/pru1/main.object: /usr/share/ti/cgt-pru/include/linkage.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/am335x/pru_cfg.h
+/home/ys/hello/pru1/main.object: /home/ys/hello/pru_comm.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/pru_rpmsg.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/pru_virtqueue.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/rsc_types.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/pru_types.h
+/home/ys/hello/pru1/main.object: /usr/lib/ti/pru-software-support-package/include/pru_virtio_ring.h
